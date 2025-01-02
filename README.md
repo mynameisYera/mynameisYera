@@ -15,7 +15,7 @@ I’m diving deep into Flutter and Dart, honing my skills in state management, a
 - **Jigi Too** - Intern
 
 📫 **How to Reach Me**  
-- LinkedIn: Yernasip Duisebay(https://www.linkedin.com/in/duisebay-yernasip-bb917a302/)  
+- LinkedIn: Yernasip Duisebay (https://www.linkedin.com/in/duisebay-yernasip-bb917a302/)  
 - Email: yernasip121120@gmail.com
 
 ⚡ **Fun Fact**  
