@@ -10,8 +10,9 @@ Welcome to my GitHub profile! I'm Yernasip, an 18-year-old Flutter developer pas
 🌱 **What I'm Focusing On**  
 I’m diving deep into Flutter and Dart, honing my skills in state management, animations, and custom widgets. I’m also exploring other mobile technologies to broaden my horizons.
 
-💼 **Where I've Worked**  
-- **Nomad Engineers** - Flutter Developer  
+💼 **Where I've Worked** 
+- **Gravity Cube** - Flutter Developer
+- **Nomad Engineers** - Junior Flutter Developer
 - **Jigi Too** - Intern
 
 📫 **How to Reach Me**  
